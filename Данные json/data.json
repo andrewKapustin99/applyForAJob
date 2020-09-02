@@ -1,0 +1,93 @@
+{
+    "fullName": "Andrew Kapustin",
+    "position": "Front-end Developer",
+    "phone": "+375336483673",
+    "email": "andrew.kapustin@gmail.com",
+    "sex": "male",
+    "age": 21,
+    "image": "photos/37507946_522780108167664_3507534709280210944_n.jpg",
+    "sections": [
+        {
+            "title":"work experience",
+            "isOpen":true,
+            "items": [
+                {
+                    "title": "IT ACADEMY",
+                    "subTitle": "INTERN",
+                    "from": "March 2020",
+                    "to": "June 2020",
+                    "items": [
+                        "Project: Web-application development using JavaScript", "used Bootstrap", "applied animation", "used Canvas", "used MVC and AJAX"
+                    ]
+                }, 
+                {
+                    "title": "IT ACADEMY",
+                    "subTitle": "INTERN",
+                    "from": "December 2019",
+                    "to": "February 2020",
+                    "items": [
+                        "Project: Website development using HTML, CSS and JavaScript", "used BEM in HTML site layout", "applied SVG, icon font", "used jQuery, JavaScript, NodeJS", "The project was awarded by 8 points"
+                    ]
+                }, 
+                {
+                    "title": "IdeaBank (Minsk)",
+                    "subTitle": "Online Sales Manager",
+                    "from": "August 2019",
+                    "to": "December 2019",
+                    "items": [
+                        "advised bank customers on the services and activities of the bank by telephone and electronic channels (chat, e-mail)", "sold banking products (loans, deposits, payment cards) to individuals by phone", "followed performance standards"
+                    ]
+                }
+            ]
+        },
+        {
+            "title":"education",
+            "isOpen":true,
+            "items": [
+                {
+                    "title": "MINSK STATE LINGUISTIC UNIVERSITY",
+                    "subTitle": "Major in English and German",
+                    "from": "September 2018",
+                    "to": "Present"
+                },
+                {
+                    "title": "IT ACADEMY",
+                    "subTitle": "Qualifications: Junior Web-Developer (JavaScript)",
+                    "from": "March 2020",
+                    "to": "June 2020"
+                }, 
+                {
+                    "title": "IT ACADEMY",
+                    "subTitle": "Qualifications: Junior Web-Developer",
+                    "from": "December 2019",
+                    "to": "February 2020"
+                },
+                {
+                    "title": "COLLEGE OF LINGUISTIC AND HUMANITY",
+                    "subTitle": "Major in English",
+                    "from": "September 2014",
+                    "to": "June 2018"
+                }
+            ]
+        },
+        {
+            "title":"skills",
+            "isOpen":false,
+            "items": [
+                {
+                    "title": [
+                        "Programming languages", "Web development", "Tools and Utilities", "IDE", "Other", "Knowledge of English", "Knowledge of German"
+                    ],
+                    "items": [
+                        "JavaScript (junior)", "HTML5, CSS3, JS", "Git, GitHub", "Brackets, Visual Studio Code", "Photoshop", "Advanced", "Intermediate"
+                    ]
+                }
+            ]
+        },
+        {
+            "title":"tools",
+            "isOpen":false,
+            "items": []
+        }
+    ]
+}
